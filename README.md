@@ -19,6 +19,7 @@ This project implements a sequence-to-sequence (Seq2Seq) model with optional att
 * Preprocessing with Keras Tokenizer for consistent character-level tokenization
 * Train/validation/test split from the [Dakshina dataset](https://github.com/google-research/dakshina)
 * Accuracy metric based on full sequence match
+* Generate attention visualization as matrix or animated format
 
 ---
 
