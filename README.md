@@ -79,7 +79,7 @@ python train.py \
 
 ##  Dataset
 
-Uses the Malayalam-English subset of the [Dakshina Dataset v1.0](https://github.com/google-research/dakshina).
+Uses the Malayalam-English subset of the [Dakshina Dataset](https://github.com/google-research/dakshina).
 
 * `ml.translit.sampled.train.tsv`
 * `ml.translit.sampled.dev.tsv`
